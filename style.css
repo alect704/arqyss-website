@@ -1,0 +1,8 @@
+body{margin:0;background-color:#02070a;color:#dffcff;font-family:Arial,sans-serif;}
+
+.hero{min-height:calc(100vh-6rem);display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2rem;border:1px solid rgba(0,234,255,0.35);box-shadow:0 0 15px rgba(0,234,255,0.15),inset 0 0 20px rgba(0,234,255,0.05);max-width:900px;margin:3rem auto;box-sizing:border-box;}
+
+h1{margin:0,font-size:5rem;letter-spacing:0.2em;color:#7ffcff;text-shadow:0 0 8px #00eaff,0 0 20px #00eaff;}
+.status{margin-top:1rem;font-size:1.1rem;letter-spacing:0.5em;color=#00eaff;}
+.tagline{max-width:700px;margin-top:2rem;font-size:1.2rem;line-height:1.6;color:#c8e6e8}
+.launch{margin-top:2rem;font-size:0.9rem;letter-spacing:0.25em;color:#6f8f92;}
